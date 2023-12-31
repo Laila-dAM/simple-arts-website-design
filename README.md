@@ -7,9 +7,6 @@ O site fornece informações sobre artistas notáveis, apresentando suas obras e
 🟣Contribuição:
 Se você deseja contribuir para este projeto, sinta-se à vontade para enviar sugestões, correções ou adições. Basta criar um fork do repositório, fazer as alterações desejadas e enviar um pull request.
 
-🟣Licença:
-Este projeto é distribuído sob a [sua licença aqui]. Consulte o arquivo LICENSE para obter mais detalhes.
-
 🟣Contato:
 Para entrar em contato com os mantenedores do projeto, envie um e-mail para lailamota.238@gmail.com.
 
